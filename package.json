@@ -35,6 +35,10 @@
     "binance",
     "optimism"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabr1e11/truffle-template"
+  },
   "author": "Roberto Cano (gabr1e11)",
   "license": "MIT",
   "devDependencies": {
